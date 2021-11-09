@@ -1,0 +1,44 @@
+.up {
+  display: flex;
+}
+
+.left {
+  background-color: rgb(235, 235, 235);
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.savenick {
+  display: flex;
+}
+
+.inputName {
+  flex-grow: 2;
+}
+
+.users {
+  border: 1px solid black;
+  flex-grow: 2;
+}
+
+.right {
+  background-image: url('../image/papel-de-parede-do-Whatsapp12.jpg');
+  border: 1px solid black;
+  font-size: 20px;
+  font-weight: 600;
+  width: 100%;
+}
+
+.down {
+  display: flex;
+  width: 100%;
+}
+
+.inputMessage {
+  flex-grow: 2;
+}
+
+button {
+  background-color: rgb(143, 188, 144);
+}
